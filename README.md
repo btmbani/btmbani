@@ -1,34 +1,34 @@
-# Mekro Deo
+# Btmb Ani
 
-**Technical Documenter & Blockchain Educator**
+**Community Communicator & Transparency Supporter**
 
-Hello! I'm Mekro Deo, a passionate technical writer and reviewer in the blockchain space, dedicated to making smart contracts and token standards easy to understand through clear, honest documentation.
+Hi! I'm Btmb Ani, a Web3 enthusiast focused on building honest communities through clear communication, moderation, and educational sharing.
 
 ### A Bit About Me
-I specialize in breaking down complex blockchain concepts into simple explanations, always prioritizing immutability, verifiability, and open-source ethics. My work helps learners and developers explore real-world examples without any hype or financial distractions.
+I thrive on creating spaces where people can learn about blockchain without hype — emphasizing facts, verifiability, and open discussions. Transparency builds trust, and that's my core principle.
 
 ### My Role in WDU Trust Token (WDU)
-WDU Trust Token is a straightforward, educational BEP-20 token on BNB Smart Chain — fixed supply of 700,000,000,000,000 tokens, fully immutable contract, no fees or extra logic — created purely for transparency demonstrations and learning. **No investment or profit intent whatsoever.**
+WDU Trust Token is a minimal educational BEP-20 token on BNB Smart Chain — immutable with a fixed 700,000,000,000,000 supply, no extra features — solely for learning and transparency demos. **Strictly no financial or investment aspects.**
 
 **Key Responsibilities I Handle:**
-- Writing and updating all technical docs (READMEs, whitepaper sections, compliance statements)
-- Reviewing Solidity code for the contract (ensuring no mint, burn, or owner functions post-deployment)
-- Creating educational resources on BEP-20 standards, supply caps, and BscScan verification (contract verified December 18, 2025)
-- Maintaining the project GitHub repo and linking to on-chain data
-- Answering technical community questions about the token's behavior (Name: wdutrust, Symbol: WDU, Address: 0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413)
+- Managing and moderating community channels (Telegram, X, Instagram, Bitcointalk)
+- Supporting documentation updates (READMEs, announcements, educational posts)
+- Handling community feedback and ensuring responses are factual and on-chain based
+- Creating non-promotional content about the token (Symbol: WDU, Name: wdutrust, Verified Dec 18, 2025)
+- Coordinating cross-platform consistency (e.g., linking to BscScan address: 0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413)
 
-This keeps the project aligned with its educational mission under founder Woodi Usimo.
+This supports the project's educational goals under founder Woodi Usimo.
 
 ### Important Project Links
 - Official Website: https://www.wdu-trust.com
 - Main GitHub Repo: https://github.com/wdutrust/wdu
 - Contract on BscScan (Verified): https://bscscan.com/address/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413
-- Contact Me: mekrodeo@wdu-trust.com  
-- X (Twitter): https://x.com/mekrodeo  
-- Telegram: https://t.me/mekrodeo
+- Contact Me: btmbani@wdu-trust.com  
+- X (Twitter): https://x.com/btmbani  
+- Telegram: https://t.me/btmbani
 
-All my contributions are for education and transparency only — no promotions or value claims.
+My work is all about education and honesty — no sales or promises.
 
-Feel free to check my other educational notes in this repo. Always verify on-chain via BscScan.
+Explore my community notes in this repo. DYOR and check BscScan always.
 
 Last updated: January 2026
