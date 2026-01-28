@@ -11,7 +11,7 @@
   - GitHub (documentation & support contributions): https://github.com/btmbani/btmbani  
   - Medium (articles & transparency posts): https://medium.com/@btmbani  
   - Telegram (direct support channel): https://t.me/btmbani  
-  - Bitcointalk (forum profile & contributions): https://bitcointalk.org/index.php?topic=5572530  
+  - Bitcointalk (forum profile & contributions): (https://bitcointalk.org/index.php?topic=5572846) 
   - Instagram: https://www.instagram.com/btmbani/
 
 ## Professional Summary
@@ -40,5 +40,6 @@ Community & Documentation Lead
 - Worked under founder Woodi Usimo for consistent messaging  
 
 Active participant in Web3 forums and socials, promoting open education.
+
 
 © 2026 Btmb Ani – Transparency and Community Coordinator
