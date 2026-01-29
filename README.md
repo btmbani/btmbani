@@ -1,34 +1,19 @@
-# Btmb Ani
+# BTMB Ani
 
-**Community Communicator & Transparency Supporter**
+**Research & Educational Content Analyst**
 
-Hi! I'm Btmb Ani, a Web3 enthusiast focused on building honest communities through clear communication, moderation, and educational sharing.
+Hello, I'm BTMB Ani.  
+I research blockchain concepts and convert them into neutral, easy-to-understand educational material.
 
-### A Bit About Me
-I thrive on creating spaces where people can learn about blockchain without hype — emphasizing facts, verifiability, and open discussions. Transparency builds trust, and that's my core principle.
+## Involvement in Quazenthor (QWBQ)
+My role is purely analytical and educational. I do not promote, advertise, or speculate.
 
-### My Role in WDU Trust Token (WDU)
-WDU Trust Token is a minimal educational BEP-20 token on BNB Smart Chain — immutable with a fixed 700,000,000,000,000 supply, no extra features — solely for learning and transparency demos. **Strictly no financial or investment aspects.**
+### Responsibilities
+- Researching BEP-20 mechanics
+- Writing neutral educational explanations
+- Avoiding financial language or projections
+- Supporting transparency initiatives
 
-**Key Responsibilities I Handle:**
-- Managing and moderating community channels (Telegram, X, Instagram, Bitcointalk)
-- Supporting documentation updates (READMEs, announcements, educational posts)
-- Handling community feedback and ensuring responses are factual and on-chain based
-- Creating non-promotional content about the token (Symbol: WDU, Name: wdutrust, Verified Dec 18, 2025)
-- Coordinating cross-platform consistency (e.g., linking to BscScan address: 0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413)
+All information is general and educational only.
 
-This supports the project's educational goals under founder Woodi Usimo.
-
-### Important Project Links
-- Official Website: https://www.wdu-trust.com
-- Main GitHub Repo: https://github.com/wdutrust/wdu
-- Contract on BscScan (Verified): https://bscscan.com/address/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413
-- Contact Me: btmbani@wdu-trust.com  
-- X (Twitter): https://x.com/btmbani  
-- Telegram: https://t.me/btmbani
-
-My work is all about education and honesty — no sales or promises.
-
-Explore my community notes in this repo. DYOR and check BscScan always.
-
-Last updated: January 2026
+— BTMB Ani
