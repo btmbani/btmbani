@@ -17,3 +17,12 @@ My role is purely analytical and educational. I do not promote, advertise, or sp
 All information is general and educational only.
 
 — BTMB Ani
+
+
+https://x.com/btmbani
+https://www.linkedin.com/in/btmbani/
+https://t.me/btmbani
+https://medium.com/@btmbani
+https://github.com/btmbani/btmbani
+https://bitcointalk.org/index.php?topic=5572846
+https://www.instagram.com/btmbani/
