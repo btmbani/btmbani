@@ -1,6 +1,6 @@
-## BTMB Ani
+## BTMB Ani##
 
-### Position
+##### Position
 
 Research & Educational Content Analyst  
 Quazenthor (QWBQ)
@@ -19,4 +19,5 @@ BTMB Ani focuses on blockchain research and educational content creation. His wo
 - Technical explanation
 - Documentation
 - Neutral content writing
+
 
